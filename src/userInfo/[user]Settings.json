@@ -1,0 +1,17 @@
+{
+  "userName" : {
+      "Location" : "000000",
+      "HourFormat" : "12 Hour",
+      "TimeZone" : "UTC-5",
+       
+      "API TOKENS" : "<token>",
+      "EnabledComponents" : {
+          "Clock" : {  
+           "Size" : "XL"
+          },
+          "Settings": {
+              "changeThemeFromTime"  : false
+          }
+       }
+ }
+}
